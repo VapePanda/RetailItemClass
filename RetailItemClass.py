@@ -4,7 +4,7 @@ File Name: RetailItemClass.py
 
 Developer: Lawrence Andriese
 
-Date last modified: 10/28/18
+Date last modified: 11/04/18
 
 Description: This program is designed to make a class for retail items store
 the data and spit the data back out in table format.
